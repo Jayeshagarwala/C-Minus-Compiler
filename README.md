@@ -1,4 +1,6 @@
-# C-Minus Compiler: C-Language - Scanner, Parser and Semantics Analyser (with limited functionality)
+# C-Minus Compiler
+
+C-Language - Scanner, Parser and Semantics Analyser (with limited functionality)
 
 ## Data types covered
 int, int array, void
