@@ -1,0 +1,17 @@
+int fact(int x){
+  int fac;
+  int y;
+  fac = 1;
+
+  while (y > 1) {
+    fac = fac * y;
+    y = y - 1;
+  } 
+  return fac;
+}
+
+void main(void) {
+  int x;
+  x = 5;
+  output(fact(x));
+}
